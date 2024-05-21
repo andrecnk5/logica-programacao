@@ -15,6 +15,7 @@ O objetivo desta aula é fornecer uma compreensão clara dos operadores lógicos
 ## Como Usar
 
 Para ver os exemplos em detalhes, acesse os arquivos específicos para cada linguagem:
+- [Operadores Lógicos - Lógica Proposicional](Operadores_Logicos_Lógica_Proposicional.md)
 - [Operadores Lógicos em Python](Operadores_Logicos_em_Python.md)
 - [Operadores Lógicos em JavaScript](Operadores_Logicos_em_JavaScript.md)
 
